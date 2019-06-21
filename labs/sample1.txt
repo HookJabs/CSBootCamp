@@ -1,0 +1,2 @@
+In this file there are 130 characters, of which 10.77% are digits, given that I
+decided to show PI to 5 decimal places (3.14159).

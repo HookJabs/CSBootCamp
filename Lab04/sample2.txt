@@ -1,0 +1,7 @@
+The national anthem of the U.S. is "The Star Spangled Banner."
+In  the mid 19th century, a movement formed promoting the adoption
+of a song with a less war-like
+theme, perhaps  "America the Beautiful." Polls showed, though,
+that the masses preferred to retain the traditional anthem. By
+the way, there are 11 occurrences of the string "the" in this file,
+52 distinct words, and 69 total words.
